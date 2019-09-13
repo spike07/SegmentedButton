@@ -4,6 +4,9 @@
 
 Android view that mimics iOS's [SegmentedControl](https://developer.apple.com/design/human-interface-guidelines/ios/controls/segmented-controls/)
 
+## Fork
+This project has been forked from [addisonElliott/SegmentedButton](https://github.com/addisonElliott/SegmentedButton) to contribute and implement additional features.
+
 ## Features
 * Customizable text color, size and font
 * Custom button drawables
